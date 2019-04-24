@@ -1,0 +1,6 @@
+
+Vanessa Putnam 
+Section Monday 6:00 to 8:00
+This project will implement a queue ADT using the linked list data structure. This queue ADT will simulate a set of jobs to be performed by a set of processors. Each job will be composed of an arrival time, durration, and a finish time. Given a batch of m jobs (with specific duration and arrival times) the total wait time, maximum wait time, and the avrage wait time will be computed. Theses quantities will be comupted for n porcessors ranging from 1 to m-1.  
+
+

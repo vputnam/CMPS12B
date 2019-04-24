@@ -1,0 +1,4 @@
+// Vanessa Putnam 
+// cs12b pa2 4/17/15
+// monday 6:00 to 8:00 pm 
+// This program will determine weather or not a word specificed on the command line is found amongst the words in an input file. The program will print a message whether or not the word (target) was found, and print a message stating the line the word (target) was found if in the input file. If the command line arements are not specified properly by a file and following targets to be found, a usage statemnet will be printed.    

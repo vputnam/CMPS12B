@@ -1,0 +1,5 @@
+
+Vanessa Putnam
+4/28/15 Section Monday 6:00 to 8:00
+This program will implement a Dictionary ADT based on the Linked List data structure. The dictonary will contain elements of pairs of strings known as key and value. Seven ADT operations will be implemented for these elements known as isEmpty(), size(), lookup(String key), insert(String key, String value), delete(String key), makeEmpty(), toString(). A private method findKey(String key) will also be implemented inorder to refrence an exisitant or nonexistant key.  
+
